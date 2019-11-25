@@ -47,7 +47,7 @@
 
 ### Linear Algorithms:
 
-* [Семинар](https://github.com/samstikhin/mlmathmech/blob/master/06-linear/linmodels.ipynb)
+* [Семинар](https://nbviewer.jupyter.org/github/samstikhin/mlmathmech/blob/master/06-linear/linmodels.ipynb)
 * [Видео](https://yadi.sk/i/SqocaB2BCvVt-A)
 * [Задачи](https://ulearn.me/course/ml/Chestnaya_regressiya_7bf6e0eb-d34c-4389-8c15-d99024821468)
 
